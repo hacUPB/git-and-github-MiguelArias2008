@@ -1,7 +1,33 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cyLOSpir)
+## Descripcion: 
+En mi repositorio clone el repositorio del profresor, despues de esto, comenzamos a trabajar en nuestro proyecto y creamos tres carpetas, llamadas src, docs e images.
+Despues dentro de nuestra carpeta src, creamos un archivo python llamado script.py y lo editamos con el codigo que nos daban en el classroom, despues investigamos sobre que era el comando .gitignore el cual se copio un codigo y lo pusimos dentro del archivo.
+- # Documentacion:
+En esta parte nos encontramos que habia que crear archivos de tipo markdown (.md), editamos cada uno poniendo informacion de cual era su contenido.
+# Clonacion:
+1. Abrimos git y ejecutamos el siguiente comando (debemos cambiar la URL ya que cada repositorio tiene una diferente): git clone URL
+2. para abrir el repositorio ejecutamos cd "nombre del repositorio"
+# Tabla de contenido arhivos "Markdown"
+[Uso de la consola](./docs/uso_consola.md) : Link a info de uso de la consola.
+
+[Repositorio local](./docs/repositorio_local.md) : Link a informacion de repositorio local.
+
+[Repositorio remoto](./docs/repositorio_remoto.md) : Link a repositorio remoto.
+
+![Primer proceso](../git-and-github-MiguelArias2008/images/PROCESO 1.png)
+![segundo proceso](../git-and-github-MiguelArias2008/images/PROCESO 2.png)
+![tercer proceso](../git-and-github-MiguelArias2008/images/PROCESO 3.png)
+![cuarto proceso](../git-and-github-MiguelArias2008/images/PROCESO 4.png)
+
+
+
+
+
+
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Miguelangel Arias Osorio  
+Id.:  000572485
 ---
 # Evaluación
 
