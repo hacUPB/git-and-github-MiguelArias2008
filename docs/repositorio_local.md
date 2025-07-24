@@ -3,3 +3,4 @@
 2. Despues git init: para iniciar el repositorio y esto crea una carpeta oculta llamada .git
 3. Git add .
 4. Creamos el commit con: git commit -m "nombre del commit"
+![proceso](proceso 1.png
