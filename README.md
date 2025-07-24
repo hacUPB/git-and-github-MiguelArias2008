@@ -1,8 +1,16 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cyLOSpir)
+## Descripcion: 
+En mi repositorio colne el repositorio del profresor, despues de esto, comenzamos a trabajar en nuestro proyecto y creamos tres carpetas, llamadas src, docs e images.
+Despues dentro de nuestra carpeta src, creamos un archivo python llamado script.py y lo editamos con el codigo que nos daban en el classroom, despues investigamos
+
+
+
+
+
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Miguelangel Arias Osorio  
+Id.:  000572485
 ---
 # Evaluación
 
