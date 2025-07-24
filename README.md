@@ -1,7 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cyLOSpir)
 ## Descripcion: 
-En mi repositorio colne el repositorio del profresor, despues de esto, comenzamos a trabajar en nuestro proyecto y creamos tres carpetas, llamadas src, docs e images.
-Despues dentro de nuestra carpeta src, creamos un archivo python llamado script.py y lo editamos con el codigo que nos daban en el classroom, despues investigamos
+En mi repositorio clone el repositorio del profresor, despues de esto, comenzamos a trabajar en nuestro proyecto y creamos tres carpetas, llamadas src, docs e images.
+Despues dentro de nuestra carpeta src, creamos un archivo python llamado script.py y lo editamos con el codigo que nos daban en el classroom, despues investigamos sobre que era el comando .gitignore el cual se copio un codigo y lo pusimos dentro del archivo.
+- # Documentacion:
+En esta parte nos encontramos que habia que crear archivos de tipo markdown (.md), editamos cada uno poniendo informacion de cual era su contenido.
 
 
 
