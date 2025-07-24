@@ -7,6 +7,13 @@ En esta parte nos encontramos que habia que crear archivos de tipo markdown (.md
 # Clonacion:
 1. Abrimos git y ejecutamos el siguiente comando (debemos cambiar la URL ya que cada repositorio tiene una diferente): git clone URL
 2. para abrir el repositorio ejecutamos cd "nombre del repositorio"
+# Tabla de contenido arhivos "Markdown"
+[Uso de la consola](./docs/uso_consola.md) : Link a info de uso de la consola.
+[Repositorio local](./docs/repositorio_local.md) : Link a informacion de repositorio local.
+[Repositorio remoto](./docs/repositorio_remoto.md) : Link a repositorio remoto.
+
+
+
 
 
 
