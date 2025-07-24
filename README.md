@@ -4,6 +4,9 @@ En mi repositorio clone el repositorio del profresor, despues de esto, comenzamo
 Despues dentro de nuestra carpeta src, creamos un archivo python llamado script.py y lo editamos con el codigo que nos daban en el classroom, despues investigamos sobre que era el comando .gitignore el cual se copio un codigo y lo pusimos dentro del archivo.
 - # Documentacion:
 En esta parte nos encontramos que habia que crear archivos de tipo markdown (.md), editamos cada uno poniendo informacion de cual era su contenido.
+# Clonacion:
+1. Abrimos git y ejecutamos el siguiente comando (debemos cambiar la URL ya que cada repositorio tiene una diferente): git clone URL
+2. para abrir el repositorio ejecutamos cd "nombre del repositorio"
 
 
 
