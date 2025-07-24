@@ -12,6 +12,8 @@ En esta parte nos encontramos que habia que crear archivos de tipo markdown (.md
 [Repositorio local](./docs/repositorio_local.md) : Link a informacion de repositorio local.
 [Repositorio remoto](./docs/repositorio_remoto.md) : Link a repositorio remoto.
 
+![Primer proceso](../git-and-github-MiguelArias2008/images/PROCESO 1.png)
+
 
 
 
