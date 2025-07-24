@@ -13,8 +13,9 @@ En esta parte nos encontramos que habia que crear archivos de tipo markdown (.md
 [Repositorio remoto](./docs/repositorio_remoto.md) : Link a repositorio remoto.
 
 ![Primer proceso](../git-and-github-MiguelArias2008/images/PROCESO 1.png)
-
-
+![segundo proceso](../git-and-github-MiguelArias2008/images/PROCESO 2.png)
+![tercer proceso](../git-and-github-MiguelArias2008/images/PROCESO 3.png)
+![cuarto proceso](../git-and-github-MiguelArias2008/images/PROCESO 4.png)
 
 
 
